@@ -1,4 +1,4 @@
-# IGM 235 REPO
+# IGME 235 REPO
 
 Ideas:
 - use osu! api to retrieve beatmap information
